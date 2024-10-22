@@ -37,6 +37,10 @@ As per rating, the data derived four types of rating.
 
    ![image](https://github.com/user-attachments/assets/8feda1af-fd7a-475f-812c-9ed367ec2df7)
 
+
+**Original Power BI File link is here >>>https://drive.google.com/file/d/1gQGcePFqNLFFxf82nuq-PKmd1nSFTlLg/view******
+
+   Thank You 
    
 
 
