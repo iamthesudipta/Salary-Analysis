@@ -33,7 +33,12 @@ As per rating, the data derived four types of rating.
 
 4) Department wise Incentive
 
-   As the training employee 
+   As the training employee is largest amoung total, the highest incentive disbursed to the training group.
+
+   ![image](https://github.com/user-attachments/assets/8feda1af-fd7a-475f-812c-9ed367ec2df7)
+
+   
+
 
 
 
